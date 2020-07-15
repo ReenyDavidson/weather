@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap");
+
+.input {
+  background-color: black;
+  font-family: "Reem Kufi", sans-serif;
+  font-size: 20px;
+  color: white;
+  border: none;
+  border-bottom: 1px solid orangered;
+  margin-bottom: 60px;
+}
+
+:focus {
+  outline: none;
+  border-bottom: 1px solid orangered;
+  font-family: "Reem Kufi", sans-serif;
+  color: white;
+  padding-left: 10px;
+}

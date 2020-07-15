@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap");
+
+.name {
+  font-family: "Reem Kufi", sans-serif;
+  color: white;
+  font-size: 64px;
+  position: absolute;
+
+  font-style: normal;
+  font-weight: normal;
+  line-height: 96px;
+}
+
+.descr {
+  font-family: "Reem Kufi", sans-serif;
+  color: #f57a07;
+  font-size: 30px;
+}
+.main {
+  font-family: "Reem Kufi", sans-serif;
+  color: #f57a07;
+  font-size: large;
+  margin-bottom: 40px;
+}
+.temp {
+  font-family: "Reem Kufi", sans-serif;
+  color: white;
+  font-size: 60px;
+}
+.country {
+  color: white;
+  font-family: "Reem Kufi", sans-serif;
+}
