@@ -38,7 +38,7 @@ export class App extends Component {
             justifyContent: "center",
           }}
         >
-          <img src={require("../sun.png")} style={{ width: "100px" }} alt="" />
+          <img src={require("../sun.png")} style={{ width: "100px" }} alt="icon" />
         </div>
         <DisplayCity main={this.state.weather.main} />
         <DisplayCity temp={this.state.main} />
